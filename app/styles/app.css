@@ -1,0 +1,16 @@
+.display-flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column
+}
+
+.fixed-card {
+  border: 1px solid blue;
+  border-radius: 4px;
+  width: 400px;
+  margin-bottom: 4px;
+  padding: 4px;
+}
+
